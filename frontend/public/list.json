@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet.",
+        "price":0,
+        "category":"Free",
+        "image":"./books.svg"
+    },
+    {
+        "id":2,
+        "name":"Song Book",
+        "title":"Lorem ipsum dolor sit amet.",
+        "price":200,
+        "category":"song",
+        "image":"./books.svg"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Lorem ipsum dolor sit amet.",
+        "price":50,
+        "category":"sport",
+        "image":"./books.svg"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet.",
+        "price":0,
+        "category":"Free",
+        "image":"./books.svg"
+    },
+    {
+        "id":5,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit amet.",
+        "price":100,
+        "category":"comedy",
+        "image":"./books.svg"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet.",
+        "price":0,
+        "category":"Free",
+        "image":"./books.svg"
+    }
+]
